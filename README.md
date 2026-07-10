@@ -1,2 +1,2 @@
 # miniprojectcss
-This the mini projecton css help to understand css basics
+This the mini project on css help to understand css basics
